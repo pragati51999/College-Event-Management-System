@@ -1,0 +1,4 @@
+	
+
+eventName=i2e2,eventDate=12/5/19, eventDetails=time:12.00   place:dharwad
+eventName=haptics,eventDate=15/8/19, eventDetails=time:5.00 place:hubli
